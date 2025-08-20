@@ -2,7 +2,7 @@
 
 A submission for the CredTech Hackathon, providing dynamic, data-driven creditworthiness scores with full transparency.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credtech-hackathon.streamlit.app/)
 
 ---
 
