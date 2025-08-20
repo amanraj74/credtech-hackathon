@@ -20,8 +20,8 @@ import os
 # IMPORTANT: Replace "YOUR_KEY" with the actual API keys you received.
 # For a real-world application, it's safer to store these as secrets.
 # You can learn about Streamlit's secrets management for a more secure way.
-ALPHA_VANTAGE_KEY = "YOUR_ALPHA_VANTAGE_KEY"
-NEWS_API_KEY = "YOUR_NEWS_API_KEY"
+ALPHA_VANTAGE_KEY = "MTRM49G88OINC1WZ"
+NEWS_API_KEY = "60cf318aea8e45c2bda0e5e5f0d81392"
 
 
 # --- Step 3: Data Fetching and Processing Functions ---
