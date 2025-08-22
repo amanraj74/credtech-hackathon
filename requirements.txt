@@ -4,3 +4,4 @@ requests
 textblob
 numpy
 altair
+yfinance
